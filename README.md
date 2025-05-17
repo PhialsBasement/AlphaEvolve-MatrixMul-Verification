@@ -4,7 +4,7 @@ Verification of Google DeepMind's AlphaEvolve 48-multiplication matrix algorithm
 
 ## Overview
 
-This repository contains code to verify and optimize the groundbreaking 4×4 matrix multiplication algorithm discovered by Google DeepMind's AlphaEvolve. In 2025, AlphaEvolve found a method to multiply 4×4 matrices using only 48 scalar multiplications, improving on Strassen's algorithm (49 multiplications) for the first time since 1969.
+This repository contains code to verify and optimize the groundbreaking 4×4 matrix multiplication algorithm discovered by Google DeepMind's AlphaEvolve. In 2025, AlphaEvolve found a method to multiply 4×4 matrices using only 48 scalar multiplications, improving on Strassen's algorithm (49 multiplications) for the first time since 1969. And while yes, my implementation of AlphaEvolves Algo is slower than Strassens algo, it is a PoC that this algo does in fact work as advertised by google(in 48 steps).
 
 The repository includes:
 
