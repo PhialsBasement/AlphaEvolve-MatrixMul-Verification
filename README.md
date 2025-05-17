@@ -85,6 +85,7 @@ Contributions are welcome! Areas for improvement include:
 - More efficient implementations of the algorithms
 - Applications to larger matrices
 - Integration with popular numerical libraries
+(and obviously if theres something wrong with the algo pls let me know or submit a PR request) 
 
 ## License
 
