@@ -68,7 +68,7 @@ Our verification confirms AlphaEvolve's breakthrough and demonstrates:
 ## Installation
 
 ```bash
-git clone https://github.com/yourusername/AlphaEvolve-MatrixMul-Verification.git
+git clone https://github.com/PhialsBasement/AlphaEvolve-MatrixMul-Verification.git
 cd AlphaEvolve-MatrixMul-Verification
 pip install numpy requests
 ```
