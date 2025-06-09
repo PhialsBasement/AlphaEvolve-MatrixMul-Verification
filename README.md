@@ -72,6 +72,7 @@ git clone https://github.com/PhialsBasement/AlphaEvolve-MatrixMul-Verification.g
 cd AlphaEvolve-MatrixMul-Verification
 pip install numpy requests
 ```
+![image](https://github.com/user-attachments/assets/a05f4c64-585b-4a5c-9379-cddbb84c41cc)
 
 ## Acknowledgements
 
